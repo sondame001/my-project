@@ -1,0 +1,29 @@
+.container {
+    display: flex; /* Flexbox ile yan yana diz */
+}
+
+.item {
+    text-align: center; /* Yazıları ortala */
+    margin-right: 20px; /* Sağ tarafta boşluk bırak */
+    size: 2000px;
+}
+
+img {
+    width: 800px; /* Genişliği 200 piksel yap */
+    height: auto; /* Yüksekliği otomatik ayarla */
+    margin-top: 50px;
+}
+p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    position: absolute; /* Başlığı resmin üzerine yerleştir */
+    top: 10px; /* Yukarıdan 10 piksel yerleştir */
+    left: 10px; /* Soldan 10 piksel yerleştir */
+    color: red; /* Başlık rengi (isteğe bağlı) */
+    background-color: rgba(0, 0, 0, 0.5); /* Başlık arka plan rengi */
+    padding: 5px; /* Başlık içindeki boşluk */
+    border-radius: 5px; /* Köşeleri yuvarla */
+    size: 453px;
+}

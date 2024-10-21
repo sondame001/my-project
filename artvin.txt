@@ -1,0 +1,8 @@
+    <h1>Artvin Şehri</h1>
+    <div class="container"></div>
+    <div class="item">  <img src="Artvin-2611076.jpg" alt="Artvin"></div>
+    <div class="item"></div> <p>Artvin (Gürcüce: ართვინი (artvini), Rusça: Артвин (Artvin), Ermenice: Արդվին (Ardvin), Lazca: Art'vini);
+         Türkiye'nin Karadeniz Bölgesi'nin, doğu ucunda yer alan ve Artvin ilinin idari merkezi olan şehirdir.
+        Artvin, Orta Çağ'da Gürcistan'ın bölgelerinden biri olan Klarceti'deki yerleşmelerden biriydi.
+         Önemli yolların geçtiği bir kavşakta yer alıyordu. Bir yandan Erzurum, Bayburt, Ardahan ve Ardanuç'a, diğer yandan Batum ve Hopa'ya açılıyordu.
+        Şehir ayrıca Çoruh Havzası'nda Artvin ile Batum arasındaki su yoluyla taşımacılığın iskelelerinden biriydi</p>
